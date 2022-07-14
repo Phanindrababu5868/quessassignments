@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task11
+public class prime
 {
     public static void main(String[] args)
     {
