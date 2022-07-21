@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Q17digitssum {
+public class digitssum {
     static int sumdigit(int n){
         return n==0?0:n%10+sumdigit(n/10);
     }
