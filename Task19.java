@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 
-public class armstrong
+public class Armstrong
 {
     static boolean isArmstongnum(int n)
     {
