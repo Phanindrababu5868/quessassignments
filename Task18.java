@@ -1,5 +1,5 @@
 import java.util.*;
-class reversenum{
+class   Reversenum{
     static int reverse(int n){
         int re=0;
         int r;
